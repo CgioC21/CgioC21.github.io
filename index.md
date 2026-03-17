@@ -17,7 +17,7 @@ Este portafolio reúne una selección de mis dashboards y proyectos de análisis
 
 ## Executive Dashboard — Power BI
 
-<img src="Executive dashboard.jpg" alt="Executive Dashboard" width="600">
+<img src="Executive dashboard.jpg" alt="Executive Dashboard" width="750">
 
 **EN:**  
 This executive dashboard summarizes global sales, expenses, net profit, and profit margins. It highlights annual and quarterly trends, profitability by continent, product performance, and country‑level results. Its objective is to provide a clear financial overview and reveal insights such as high‑performing regions, product contribution, and areas where profitability can be improved.
