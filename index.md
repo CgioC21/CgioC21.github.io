@@ -1,6 +1,6 @@
 ## About Me — Giovanni C.
 
-<img src="fotoportafolio.png" alt="Giovanni C." width="180">
+<img src="fotoportafolio.png" alt="Giovanni Chávez" width="180">
 
 **EN:**  
 Data Analyst specialized in Power BI, dashboard storytelling, and corporate reporting. I focus on clear insights, minimalistic design, and data‑driven decision‑making. Open to global remote roles in analytics and tech.
