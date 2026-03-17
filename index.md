@@ -11,3 +11,16 @@ This portfolio presents a selection of my Power BI dashboards and analytics proj
 Analista de Datos especializado en Power BI, storytelling con dashboards y reportes corporativos. Me enfoco en insights claros, diseño minimalista y toma de decisiones basada en datos. Abierto a roles remotos globales en analítica y tecnología.
 
 Este portafolio reúne una selección de mis dashboards y proyectos de análisis en Power BI, destacando insights prácticos y un diseño corporativo.
+
+
+---
+
+## Executive Dashboard — Power BI
+
+<img src="Executive dashboard.jpg" alt="Executive Dashboard" width="600">
+
+**EN:**  
+This executive dashboard summarizes global sales, expenses, net profit, and profit margins. It highlights annual and quarterly trends, profitability by continent, product performance, and country‑level results. Its objective is to provide a clear financial overview and reveal insights such as high‑performing regions, product contribution, and areas where profitability can be improved.
+
+**ES:**  
+Este dashboard ejecutivo resume las ventas globales, gastos, utilidad neta y márgenes de ganancia. Destaca tendencias anuales y trimestrales, rentabilidad por continente, desempeño por producto y resultados por país. Su objetivo es ofrecer una visión financiera clara y revelar insights como regiones de mayor rendimiento, contribución por producto y oportunidades para mejorar la rentabilidad.
