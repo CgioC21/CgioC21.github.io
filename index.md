@@ -1,6 +1,6 @@
 ## About Me — Giovanni Chavez
 
-<img src="fotoportafolio.png" alt="Giovanni" width="180">
+<img src="fotoportafolio.png" alt="Giovanni" width="150">
 
 **EN:**  
 Data Analyst specialized in Power BI, dashboard storytelling, and corporate reporting. I focus on clear insights, minimalistic design, and data‑driven decision‑making. Open to global remote roles in analytics and tech.
