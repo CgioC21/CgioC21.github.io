@@ -15,7 +15,7 @@ Este portafolio reúne una selección de mis dashboards y proyectos de análisis
 
 ---
 
-## Executive Dashboard — Power BI
+## Executive Sales Dashboard — Power BI
 
 <img src="Executive dashboard.jpg" alt="Executive Dashboard" width="1050">
 
@@ -24,3 +24,23 @@ This executive dashboard summarizes global sales, expenses, net profit, and prof
 
 **ES:**  
 Este dashboard ejecutivo resume las ventas globales, gastos, utilidad neta y márgenes de ganancia. Destaca tendencias anuales y trimestrales, rentabilidad por continente, desempeño por producto y resultados por país. Su objetivo es ofrecer una visión financiera clara y revelar insights como regiones de mayor rendimiento, contribución por producto y oportunidades para mejorar la rentabilidad.
+
+
+---
+
+## Sales Performance Dashboard — Power BI
+
+<img src="Sales Dashboard final.jpg" alt="Supermarket Sales Dashboard" width="1050">
+
+**EN:**  
+This dashboard provides a clear overview of supermarket sales performance, including total sales, orders, quantity sold, and average order value. It highlights regional sales distribution, product contribution, quarterly sales trends, and customer and payment segmentation. Its objective is to reveal insights such as top‑performing regions, demand patterns, product preferences, and customer behavior to support data‑driven commercial decisions.
+
+**ES:**  
+Este dashboard ofrece una vista clara del desempeño de ventas de un supermercado, incluyendo ventas totales, órdenes, cantidad vendida y valor promedio por orden. Destaca la distribución de ventas por región, la contribución por producto, las tendencias trimestrales y la segmentación por tipo de cliente y método de pago. Su objetivo es revelar insights como regiones de mayor rendimiento, patrones de demanda, preferencias de producto y comportamiento del cliente para respaldar decisiones comerciales basadas en datos.
+
+
+EN
+All dashboards in this portfolio are built using sample data intended solely for educational purposes.
+ES
+Todos los dashboards de este portafolio están elaborados con datos de ejemplo utilizados exclusivamente para fines educativos.
+
