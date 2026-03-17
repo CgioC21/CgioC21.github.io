@@ -1,4 +1,5 @@
-## About Me — Giovanni Chavez
+## About Me — Giovanni Chavez - Dashboards Portfolio
+
 
 <img src="fotoportafolio.png" alt="Giovanni" width="150">
 
