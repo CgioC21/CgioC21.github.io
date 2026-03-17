@@ -39,8 +39,10 @@ This dashboard provides a clear overview of supermarket sales performance, inclu
 Este dashboard ofrece una vista clara del desempeño de ventas de un supermercado, incluyendo ventas totales, órdenes, cantidad vendida y valor promedio por orden. Destaca la distribución de ventas por región, la contribución por producto, las tendencias trimestrales y la segmentación por tipo de cliente y método de pago. Su objetivo es revelar insights como regiones de mayor rendimiento, patrones de demanda, preferencias de producto y comportamiento del cliente para respaldar decisiones comerciales basadas en datos.
 
 
-EN
+---
+**EN:**  
 All dashboards in this portfolio are built using sample data intended solely for educational purposes.
-ES
+
+**ES:**  
 Todos los dashboards de este portafolio están elaborados con datos de ejemplo utilizados exclusivamente para fines educativos.
 
