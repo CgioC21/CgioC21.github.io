@@ -190,27 +190,28 @@ Este dashboard ofrece una vista clara del desempeño de ventas de un supermercad
 
 **ES:** Más allá de los dashboards convencionales, estos proyectos demuestran usos creativos de Power BI — llevando los límites de una herramienta BI a través del desarrollo con HTML, CSS, JavaScript y DAX.
 
-<div class="videos-grid">
-  <div class="video-card">
-    <div class="video-wrapper">
+<div style="margin: 32px 0;">
+  <div style="border-radius: 12px; overflow: hidden; border: 1px solid #21262d; box-shadow: 0 4px 24px rgba(0,0,0,0.4); margin-bottom: 40px;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe src="https://www.youtube.com/embed/VJjC67HVXhQ" title="Flappy Bird in Power BI"
         frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+        allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
     </div>
-    <div class="video-info">
-      <h3>🐦 Flappy Bird in Power BI</h3>
-      <p>A fully playable Flappy Bird game built entirely inside Power BI using HTML/CSS/JavaScript in a custom visual, just creativity and code.</p>
+    <div style="padding: 16px; background: #161b22;">
+      <h3 style="margin: 0 0 8px 0; color: #e6edf3;">🐦 Flappy Bird in Power BI</h3>
+      <p style="margin: 0; color: #8b949e; font-size: 0.9em;">A fully playable Flappy Bird game built entirely inside Power BI using HTML/CSS/JavaScript in a custom visual, just creativity and code.</p>
     </div>
   </div>
-  <div class="video-card">
-    <div class="video-wrapper">
+
+  <div style="border-radius: 12px; overflow: hidden; border: 1px solid #21262d; box-shadow: 0 4px 24px rgba(0,0,0,0.4);">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe src="https://www.youtube.com/embed/deuwZ5328GY" title="KPI Cards Carousel in Power BI"
         frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+        allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
     </div>
-    <div class="video-info">
-      <h3>📊 KPI Cards Carousel in Power BI</h3>
-      <p>An animated KPI cards carousel built with HTML/CSS inside Power BI. Dynamic, responsive design that transforms how KPIs are presented in executive reports.</p>
+    <div style="padding: 16px; background: #161b22;">
+      <h3 style="margin: 0 0 8px 0; color: #e6edf3;">📊 KPI Cards Carousel in Power BI</h3>
+      <p style="margin: 0; color: #8b949e; font-size: 0.9em;">An animated KPI cards carousel built with HTML/CSS inside Power BI. Dynamic, responsive design that transforms how KPIs are presented in executive reports.</p>
     </div>
   </div>
 </div>
